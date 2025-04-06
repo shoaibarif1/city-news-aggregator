@@ -1,0 +1,28 @@
+.custom-navbar {
+    background: linear-gradient(90deg, #000000, #1e1e2f, #3f3f70);
+    padding: 10px 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    border-bottom: 2px solid #ff4081;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .brand-title {
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: #ff4081 !important;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 3px #000;
+  }
+  
+  .custom-navbar .nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+    margin-left: 15px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #ff4081 !important;
+    transform: scale(1.05);
+  }
+  
