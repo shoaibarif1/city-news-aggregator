@@ -1,0 +1,5 @@
+node_modules/
+.env
+city-news-frontend/node_modules/
+build/
+dist/
